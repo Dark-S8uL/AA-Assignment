@@ -27,13 +27,9 @@ cypress/
 | └── e2e.js
 |
 ├── .cypress.env.json # Secret credentials (gitignored)
-|
 ├── .cypress.config.js # Cypress configuration
-|
 ├── .gitignore
-|
 ├── package.json
-|
 └── README.md
 ```
 ---
