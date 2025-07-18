@@ -1,13 +1,11 @@
 # AA-Assignment
 
-# AA-Assignment – Cypress POM Framework
-
 This repository contains an automated test suite built using **Cypress** with the **Page Object Model (POM)** design pattern. It includes reusable components and organized test flows for two use cases.
 
 ---
 
 ## 📌 Project Structure
-
+```
 cypress/
 ├── e2e/ # Test specifications
 │ ├── login.cy.js
@@ -37,7 +35,7 @@ cypress/
 ├── package.json
 |
 └── README.md
-
+```
 ---
 
 ## ✅ Use Cases Covered
@@ -77,7 +75,7 @@ cypress/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AA-Assignment.git
+git clone https://github.com/Dark-S8uL/AA-Assignment.git
 cd AA-Assignment
 ```
 
