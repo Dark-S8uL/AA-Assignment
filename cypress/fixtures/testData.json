@@ -1,0 +1,11 @@
+{
+  "botName": "TestBot1",
+  "learningInstance": {
+    "name": "Invoice Parser",
+    "description": "Instance for invoice extraction",
+    "fields": {
+      "fieldName": "invoice_number",
+      "fieldLabel": "Invoice Number"
+    }
+  }
+}
